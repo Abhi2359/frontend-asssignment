@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:ital,wght@0,500;0,700;0,900;1,300&display=swap');
+
+.list-group-item{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    margin-top: 10px;
+}
+.element{
+    padding: 4px;
+}
+
+.userDetails{
+   /* // display: flex; */
+    margin-top: 20px;
+   
+    justify-content: space-around;
+   
+}
+
+.username{
+margin: 10px;
+}
+
+.contact{
+
+}
+
+.city{
+
+}
