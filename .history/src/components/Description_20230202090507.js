@@ -13,10 +13,9 @@ function Description({name,address}) {
             </div>
             <div>
             <h5>Address</h5>
-            {address}
             </div>
             <div>
-            
+
             </div>
             <div>
 

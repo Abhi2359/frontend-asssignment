@@ -16,7 +16,7 @@ function Description({name,address}) {
             {address}
             </div>
             <div>
-            
+
             </div>
             <div>
 

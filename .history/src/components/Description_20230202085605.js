@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Description({name,address}) {
+function Description({}) {
   return (
     <>
     <div class="description">
@@ -8,15 +8,13 @@ function Description({name,address}) {
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet aliquam modi animi culpa maiores recusandae dolore libero atque officiis nostrum.</p>
         <div class="address">
             <div>
-             <h5>Contact Person</h5>  
-           {name}
+             <h5></h5>   
             </div>
             <div>
-            <h5>Address</h5>
-            {address}
+
             </div>
             <div>
-            
+
             </div>
             <div>
 

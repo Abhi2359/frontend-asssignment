@@ -31,7 +31,7 @@ const Users = ({ users, loading }) => {
               </div>
               <div >
                 {/* <button className="btn" onClick={handleViewDetails}> {viewDetails?"Hide":"View"}Details</button> */}
-                <Button name={user.name} address={user.address.city + user.address.suite}>Details</Button>
+                <Button name={user.name} address={user.address.}>Details</Button>
                 
               </div>
             </div>

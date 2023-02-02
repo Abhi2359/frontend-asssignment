@@ -12,11 +12,10 @@ function Description({name,address}) {
            {name}
             </div>
             <div>
-            <h5>Address</h5>
-            {address}
+            
             </div>
             <div>
-            
+
             </div>
             <div>
 

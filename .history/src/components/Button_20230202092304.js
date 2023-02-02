@@ -3,7 +3,7 @@ import Description from './Description';
 import style from './style.css'
 function Button({ name,address,children}) {
     const [viewDetails ,setViewDetails] =useState(false);
-    //const [width,setWidth] =useState(0)
+    const [width,setWidth] =useState(0)
     function handleViewDetails(){
         setViewDetails(!viewDetails)
        
